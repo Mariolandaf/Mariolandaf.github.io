@@ -493,7 +493,7 @@ button:hover::before, .button:hover::before {
 }
 
 .feature {
-  background-color: #fafafa;
+  background-color: hsl(220, 16%, 96%);
   text-align: center;
 }
 
