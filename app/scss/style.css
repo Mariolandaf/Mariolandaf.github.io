@@ -431,6 +431,7 @@ button:hover::before, .button:hover::before {
             order: 2;
     height: 41rem;
     background-image: none;
+    max-width: 49rem;
     background-image: url("/easybank-landing-page-master/EVE imágenes/EVEvertical.svg");
     background-position: left center;
   }
